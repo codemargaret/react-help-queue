@@ -9,7 +9,8 @@ _Run the following commands in Terminal:_
 
 1. `$ git clone` [this repository](https://github.com/codemargaret/react-help-queue.git)
 2. `$ cd react-help-queue`
-3. `$ open index.html`
+3. `$ npm init`
+4. `$ webpack-dev-server` _to see at localhost:8080._
 
 ## Project Goals
 * _Get comfortable using React._
